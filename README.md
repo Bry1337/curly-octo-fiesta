@@ -17,7 +17,7 @@ Note that:
 
 -   The DAO must be an  `interface`  or  `abstract`  class.
 -   Room uses the DAO to create a clean API for your code.
--   By default, all queries (`@Query`) must be executed on a thread other than the main thread. (You work on that later.) For operations such as inserting or deleting, if you use the provided convenience annotations, Room takes care of thread management for you.
+-   By default, all queries (`@Query`) must be executed on a thread other than the main thread. For operations such as inserting or deleting, if you use the provided convenience annotations, Room takes care of thread management for you.
 
 ## Live Data
 When you display data or use data in other ways, you usually want to take some action when the data changes. This means you have to observe the data so that when it changes, you can react.
