@@ -1,7 +1,9 @@
 ## Java Based Android Database Sample (MVVM) Pattern
+The diagrams below is the complete architecture diagram with the component that you are going to implement in this task highlighted. Every part will have such a diagram to help you understand where the current component fits into the overall structure of the app, and to see how the components are connected.
+
 
 ## Entity
-The diagram below is the complete architecture diagram with the component that you are going to implement in this task highlighted. Every task will have such a diagram to help you understand where the current component fits into the overall structure of the app, and to see how the components are connected.
+The data for this app is words, and each word is represented by an entity in the database.
 ![enter image description here](https://developer.android.com/static/codelabs/android-training-livedata-viewmodel/img/19206d185c60f245_1920.png)
 
 
