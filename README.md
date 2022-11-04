@@ -1,5 +1,5 @@
 ## Java Based Android Database Sample (MVVM) Pattern
-The diagrams below is the complete architecture diagram with the component that you are going to implement in this task highlighted. Every part will have such a diagram to help you understand where the current component fits into the overall structure of the app, and to see how the components are connected.
+The diagrams below is the complete architecture diagram with the component that you are going to implement. Every part will have such a diagram to help you understand where the current component fits into the overall structure of the app, and to see how the components are connected.
 
 
 ## Entity
